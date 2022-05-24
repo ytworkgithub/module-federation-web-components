@@ -1,0 +1,16 @@
+
+	multiframework
+
+		mfe1 3000
+
+		shell 5000
+
+	angular-app1 4202
+
+	angular3-app 4203
+
+	angularjs-app 4204
+
+	react-app 4205
+
+	vue-js 4206
